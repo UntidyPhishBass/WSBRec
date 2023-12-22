@@ -1,8 +1,5 @@
 # :rocket: WallStreetBets Stock Research Posts Classifier :rocket:
 
-Project presentation: https://youtu.be/spDbteQAlbE  <br>
-Project website: https://wsbrecommender.web.app/
-
 ***
 # **I. Abstract**
 
